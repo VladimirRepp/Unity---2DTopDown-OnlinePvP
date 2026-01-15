@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Roadmap" id="gS40myOSdADA6oSpxNly">
+    <mxGraphModel dx="1288" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i2rjaYdctGDQw12mOjg6-3" edge="1" parent="1" source="i2rjaYdctGDQw12mOjg6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i2rjaYdctGDQw12mOjg6-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Core - игровые механики" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-5" edge="1" parent="1" source="i2rjaYdctGDQw12mOjg6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i2rjaYdctGDQw12mOjg6-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Unity Network" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-7" edge="1" parent="1" source="i2rjaYdctGDQw12mOjg6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i2rjaYdctGDQw12mOjg6-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="PUN" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Mirror" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-140" y="220" as="sourcePoint" />
+            <mxPoint x="660" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;direction=south;" value="Core gameplay" vertex="1">
+          <mxGeometry height="50" width="170" x="-120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="i2rjaYdctGDQw12mOjg6-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;direction=south;" value="Multiplayer" vertex="1">
+          <mxGeometry height="50" width="520" x="100" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
