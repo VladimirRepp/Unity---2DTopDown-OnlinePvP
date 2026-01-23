@@ -591,7 +591,6 @@ GameObject:
   - component: {fileID: 584942750}
   - component: {fileID: 584942749}
   - component: {fileID: 584942748}
-  - component: {fileID: 584942752}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -682,21 +681,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &584942752
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 584942747}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21af162218661492995b3a299b099503, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PickupViewer
-  pickuper: {fileID: 1809120249}
-  coinsText: {fileID: 2012361177}
-  diamondsText: {fileID: 1754905535}
 --- !u!4 &606758977 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8986866767904807125, guid: 05e9af7687f684a7a9d78b71a27adc91, type: 3}
@@ -2211,17 +2195,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3895668922009794767, guid: aee49acf1b0c7437b87f9ff8d3cf8acd, type: 3}
   m_PrefabInstance: {fileID: 1866443343}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1809120249 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2559068182526337733, guid: aee49acf1b0c7437b87f9ff8d3cf8acd, type: 3}
-  m_PrefabInstance: {fileID: 1866443343}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f84012b598aaa4eb2ac7a0fbfd7be6d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Pickuper
 --- !u!1001 &1814936129
 PrefabInstance:
   m_ObjectHideFlags: 0
